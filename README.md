@@ -1,20 +1,5 @@
-## Computational Linear Algebra for Coders
-
-This course is focused on the question: **How do we do matrix computations with acceptable speed and acceptable accuracy?**
-
-This course is being taught in the [University of San Francisco's Masters of Science in Data Science](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) program, summer 2018 (for graduate students studying to become data scientists).  The course is taught in Python with Jupyter Notebooks, using libraries such as Scikit-Learn and Numpy for most lessons, as well as Numba (a library that compiles Python to C for faster performance) and PyTorch (an alternative to Numpy for the GPU) in a few lessons.
-
-You can find the 2017 version of the course [here](https://github.com/fastai/numerical-linear-algebra).
-
 ## Table of Contents
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service.  Topics Covered:
-### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb) 
-  - [My background](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Intro)
-  - [Teaching Approach](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Teaching)
-  - [Importance of Technical Writing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Writing-Assignment)
-  - [List of Excellent Technical Blogs](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Excellent-Technical-Blogs)
-  - [Linear Algebra Review Resources](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra)
-  
 
 ### [1. Why are we here?](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb) 
 We start with a high level overview of some foundational concepts in numerical linear algebra.
