@@ -1,13 +1,6 @@
 ## Table of Contents
 
-### [1. Why are we here?](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb) 
-We start with a high level overview of some foundational concepts in numerical linear algebra.
-  - [Matrix and Tensor Products](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Matrix-and-Tensor-Products)
-  - [Matrix Decompositions](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Matrix-Decompositions)
-  - [Accuracy](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Accuracy)
-  - [Memory use](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Memory-Use)
-  - [Speed](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Speed)
-  - [Parallelization & Vectorization](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb#Vectorization)
+### [1. Why are we here?](nbs/01-Why-are-we-here.ipynb) 
 
 ### [2. Background Removal with SVD](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/02-Background-Removal-with-SVD.ipynb)
 Another application of SVD is to identify the people and remove the background of a surveillance video.
