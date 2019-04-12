@@ -1,5 +1,4 @@
 ## Table of Contents
-The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service.  Topics Covered:
 
 ### [1. Why are we here?](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb) 
 We start with a high level overview of some foundational concepts in numerical linear algebra.
