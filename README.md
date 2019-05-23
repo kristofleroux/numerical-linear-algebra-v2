@@ -1,4 +1,5 @@
-My customized version of Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
+My customized version of Jupyter Notebooks for Computational Linear Algebra course
+
 
 ## Table of Contents
 
