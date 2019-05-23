@@ -1,3 +1,5 @@
+My customized version of Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program
+
 ## Table of Contents
 
 ### [1. Why are we here?](nbs/01-Why-are-we-here.ipynb) 
